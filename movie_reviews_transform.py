@@ -1,7 +1,7 @@
 import tensorflow as tf
 
-LABEL_KEY = "sentiment"
-FEATURE_KEY = "review"
+LABEL_KEY = "label"
+FEATURE_KEY = "text"
 
 def transformed_name(key):
     """Renaming transformed features"""
