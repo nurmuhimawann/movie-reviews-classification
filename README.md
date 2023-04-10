@@ -1,4 +1,4 @@
-# Submission 1: Moview Reviews Sentiment Classification
+# Submission 1: Movie Reviews Sentiment Classification
 
 Nama: Nur Muhammad Himawan
 
